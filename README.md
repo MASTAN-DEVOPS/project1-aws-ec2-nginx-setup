@@ -2,7 +2,23 @@
 
 # AWS EC2 NGINX Web Server with Terraform
 
-This project automates the deployment of a basic web server on AWS using Terraform and a bash script.
+   This project automates the deployment of a basic web server on AWS using Terraform and a bash script.
+
+# This project will:
+
+  * Launch an EC2 instance
+  * Install NGINX via user data script
+  * Configure firewall (UFW)
+  * Automated with Terraform
+
+# Project Structure
+aws-ec2-nginx-setup/
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── setup.sh
+├── README.md
+
 
 # Features
 
@@ -23,5 +39,6 @@ This project automates the deployment of a basic web server on AWS using Terrafo
    ```bash
    https://github.com/MASTAN-DEVOPS/project1-aws-ec2-nginx-setup.git
    cd project1-aws-ec2-nginx-setup
+
 
 
