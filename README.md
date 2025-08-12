@@ -13,6 +13,7 @@
 
 # Project Structure
 aws-ec2-nginx-setup/
+
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
@@ -39,6 +40,7 @@ aws-ec2-nginx-setup/
    ```bash
    https://github.com/MASTAN-DEVOPS/project1-aws-ec2-nginx-setup.git
    cd project1-aws-ec2-nginx-setup
+
 
 
 
