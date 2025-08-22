@@ -39,7 +39,8 @@ aws-ec2-nginx-setup/
 1. Clone the repo:
    ```bash
    https://github.com/MASTAN-DEVOPS/project1-aws-ec2-nginx-setup.git
-   cd project1-aws-ec2-nginx-setup
+cd project1-aws-ec2-nginx-setup
+
 
 
 
